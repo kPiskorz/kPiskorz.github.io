@@ -1,0 +1,72 @@
+.header{
+    display: flex;
+    position: relative;
+    padding: 16px;
+}
+.photo{
+    flex-basis: 25%;
+    margin-right: 20px;
+}
+.photo img {
+    object-fit: cover;
+    width: 100%;
+    border-radius: 50%;;
+}
+.id{
+    flex-basis: 75%;
+}
+.id > span{
+    font-size: 28px;
+
+}
+
+.user {
+    padding: 0px 16px;
+    margin-bottom:10px;
+}
+.user .name{
+    font-weight: 600;
+}
+
+.activity{
+    border-top: 1px solid #dbdbdb;
+    border-bottom: 1px solid #dbdbdb;
+    padding:10px 0px;
+    display: flex;
+    list-style: none;
+    margin-bottom: 0px;
+}
+.activity li{
+    width: 33.3%;
+    color:#999;
+    text-align: center;
+    font-size: 14px;
+}
+.activity li span{
+    color:black;
+    font-weight: 600;
+}
+
+.posts{
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    grid-gap: 5px;
+}
+
+.followBtn{
+    background: #3897f0;
+    color: #fff;
+    padding: 5px 10px;
+    border-radius: 5px;
+    font-weight: 600;
+    margin:10px 0px;
+}
+.unfollowBtn{
+    background:transparent;
+    border: 1px solid #dbdbdb;
+    color: black;
+    padding: 5px 10px;
+    border-radius: 5px;
+    font-weight: 600;
+    margin:10px 0px;
+}
