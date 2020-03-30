@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/social-media-kPiskorz/static/css/main.17cf19b1.chunk.css",
+    "main.js": "/social-media-kPiskorz/static/js/main.3ddc5750.chunk.js",
+    "main.js.map": "/social-media-kPiskorz/static/js/main.3ddc5750.chunk.js.map",
+    "runtime-main.js": "/social-media-kPiskorz/static/js/runtime-main.514958ad.js",
+    "runtime-main.js.map": "/social-media-kPiskorz/static/js/runtime-main.514958ad.js.map",
+    "static/js/2.8804bfcf.chunk.js": "/social-media-kPiskorz/static/js/2.8804bfcf.chunk.js",
+    "static/js/2.8804bfcf.chunk.js.map": "/social-media-kPiskorz/static/js/2.8804bfcf.chunk.js.map",
+    "index.html": "/social-media-kPiskorz/index.html",
+    "precache-manifest.b0feb9d0fd412006c1f0627916d48984.js": "/social-media-kPiskorz/precache-manifest.b0feb9d0fd412006c1f0627916d48984.js",
+    "service-worker.js": "/social-media-kPiskorz/service-worker.js",
+    "static/css/main.17cf19b1.chunk.css.map": "/social-media-kPiskorz/static/css/main.17cf19b1.chunk.css.map",
+    "static/js/2.8804bfcf.chunk.js.LICENSE.txt": "/social-media-kPiskorz/static/js/2.8804bfcf.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.514958ad.js",
+    "static/js/2.8804bfcf.chunk.js",
+    "static/css/main.17cf19b1.chunk.css",
+    "static/js/main.3ddc5750.chunk.js"
+  ]
+}
